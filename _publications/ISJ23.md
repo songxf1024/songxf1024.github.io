@@ -2,11 +2,11 @@
 title: "Image Matching and Localization Based on Fusion of Handcrafted and Deep Features"
 collection: publications
 permalink: /publications/ISJ23
-date: 2009-10-01
+date: 2023-10-01
 venue: 'IEEE Sensors Journal'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10225672'
 codeurl: 'https://github.com/songxf1024/DeFusion'
-citation: 'X. Song, Y. Zou, Z. Shi and Y. Yang, "Image Matching and Localization Based on Fusion of Handcrafted and Deep Features," in IEEE Sensors Journal, vol. 23, no. 19, pp. 22967-22983, 1 Oct.1, 2023.'
+citation: 'Song X, Zou Y, Shi Z, et al. Image matching and localization based on fusion of handcrafted and deep features[J]. IEEE Sensors Journal, 2023.'
 ---
 
 <div style="gap: 10px; display: flex; flex-direction: column; align-items: center;">
