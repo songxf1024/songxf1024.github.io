@@ -2,7 +2,7 @@
 title: "GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network"
 collection: publications
 permalink: /publications/NN25_GIMS
-date: 2023-10-01
+date: 2025-8-23
 venue: 'Neural Networks'
 paperurl: 'https://arxiv.org/abs/2412.18221'
 codeurl: 'https://github.com/songxf1024/GIMS'
