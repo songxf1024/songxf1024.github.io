@@ -1,7 +1,7 @@
 ---
 title: "GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network"
 collection: publications
-permalink: /publications/NN25_GIMS
+permalink: /publications/GIMS
 date: 2025-8-23
 venue: 'Neural Networks'
 paperurl: 'https://arxiv.org/abs/2412.18221'
