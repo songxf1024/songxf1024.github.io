@@ -6,7 +6,7 @@ date: 2025-8-28
 venue: 'Neural Networks'
 paperurl: 'https://arxiv.org/abs/2412.18221'
 codeurl: 'https://github.com/songxf1024/GIMS'
-citation: 'Xianfeng Song, undefined., et al. "GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network," in Neural Networks, pp. 108030, 2025.'
+citation: 'Xianfeng Song, Yi Zou, Zheng Shi, Zheng Liu. "GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network," in Neural Networks, pp. 108030, 2025.'
 ---
 
 <div style="gap: 10px; display: flex; flex-direction: column; align-items: center;">
