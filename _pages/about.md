@@ -42,6 +42,11 @@ Review Certificates
 - [ICONIP'24](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Review%20Certificate.pdf)
 
 
+Awards
+======
+- [CCF Computility'25](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/awards/CCF%20Computility2025.pdf)
+
+---
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://count.getloli.com/@songxf1024" alt="xfxuezhang" /> 
