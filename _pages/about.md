@@ -41,6 +41,8 @@ Review Certificates
 ======
 - [ICONIP'24](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Review%20Certificate.pdf)
 
+- [Journal of Supercomputing'24](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Journal_of_Supercomputing_25.pdf)
+
 
 Awards
 ======
