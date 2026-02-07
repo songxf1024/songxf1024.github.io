@@ -2,7 +2,7 @@
 title: "CaPGNN: Optimizing parallel graph neural network training with joint caching and resource-aware graph partitioning"
 collection: publications
 permalink: /publications/CaPGNN
-date: 2025-8-28
+date: 2026-2-7
 venue: 'Neurocomputing'
 paperurl: 'https://arxiv.org/abs/2508.13716'
 codeurl: 'https://github.com/songxf1024/CaPGNN'
