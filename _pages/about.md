@@ -37,21 +37,22 @@ Orals
   {% endfor %}</ul>
 
 
-Review Certificates
+Peer Review
 ======
 **Conference:**    
 - [ICONIP'24](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Review%20Certificate.pdf)
 
-- [KSII T INTERNET INF'26](https://itiis.org/)
-
 - [IWCMC'26](https://iwcmc.net/2026/index.php)
 
 **Journal:**    
-- [J SUPERCOMPUT'25](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Journal_of_Supercomputing_25.pdf)
+- [J SUPERCOMPUT](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Journal_of_Supercomputing_26.pdf)
 
-- [J SUPERCOMPUT'26](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Journal_of_Supercomputing_26.pdf)
+- [KSII T INTERNET INF](https://itiis.org/)
 
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+
+- [KNOWL INF SYST](https://link.springer.com/journal/10115)
+
 
 
 Awards
