@@ -51,6 +51,8 @@ Peer Review
 
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 
+- [Neural Networks]()
+
 - [KNOWL INF SYST](https://link.springer.com/journal/10115)
 
 
