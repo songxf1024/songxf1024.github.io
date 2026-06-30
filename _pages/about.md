@@ -40,9 +40,9 @@ Orals
 Peer Review
 ======
 **Conference:**    
-- [ICONIP'24](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Review%20Certificate.pdf)
+- [ICONIP](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Review%20Certificate.pdf)
 
-- [IWCMC'26](https://iwcmc.net/2026/index.php)
+- [IWCMC](https://iwcmc.net/2026/index.php)
 
 **Journal:**    
 - [J SUPERCOMPUT](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Journal_of_Supercomputing_26.pdf)
@@ -54,6 +54,9 @@ Peer Review
 - [Neural Networks]()
 
 - [KNOWL INF SYST](https://link.springer.com/journal/10115)
+
+- [Scientific Reports](https://github.com/songxf1024/songxf1024.github.io/blob/main/files/Scientific_Reports_26_1.pdf)
+
 
 
 
